@@ -8,7 +8,30 @@ Welcome to the **Retail Sales Analysis** project — a beginner-friendly SQL por
 ---
 
 ## Objectives
-- **Database Setup:**
+1. **Retail Sales Database Setup**  
+   Initialize and populate a structured database (`p1_retail_db`) using the provided retail sales dataset.
+2. **Data Cleaning**  
+   Detect and remove records containing missing or null values to ensure data integrity and accuracy.
+3. **Exploratory Data Analysis (EDA)**  
+   Conduct preliminary data exploration to understand key metrics, distributions, and patterns within the dataset.
+4. **Business Analysis Using SQL**  
+   Execute SQL queries to answer specific business questions and extract actionable insights from the sales data.
+---
+
+
+## Project Overview
+
+- **Level:** Beginner
+- **Database:** `p1_retail`
+- **Skills Covered:** SQL, Data Cleaning, Aggregation, Window Functions, EDA
+
+
+---
+
+##  Project Structure
+
+### 1. database_setup
+- **Database Creation;**
 The project begins by creating a database named 'p1_retail_db' to store all retail sales-related data.
 
 - **Table Creation:**
@@ -25,22 +48,6 @@ A table called `retail_sales` is created within the database to capture detailed
 - `price_per_unit`: Selling price per unit  
 - `cogs`: Cost of Goods Sold for the transaction  
 - `total_sale`: Total amount of the sale
----
-
-
-## Project Overview
-
-- **Level:** Beginner
-- **Database:** `p1_retail`
-- **Skills Covered:** SQL, Data Cleaning, Aggregation, Window Functions, EDA
-
-
----
-
-##  Project Structure
-
-### 1. database_setup
-Create the `retail_sales` table and database with the appropriate schema.
 
 ### 2. cleaning_queries
 SQL scripts to:
