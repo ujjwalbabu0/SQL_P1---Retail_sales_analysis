@@ -55,4 +55,4 @@ Contains findings and observations based on the SQL analysis.
 ### The Repository
 
 ```bash
-https://github.com/ujjwalbabu0/SQL_P1---Retail_sales_analysis/tree/main
+https://github.com/ujjwalbabu0/SQL_P1---Retail_sales_analysis
