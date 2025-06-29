@@ -47,8 +47,7 @@ Contains findings and observations based on the SQL analysis.
 
 ---
 
-### ✅ Clone the Repository
+### The Repository
 
 ```bash
-git clone https://github.com/ujjwalbabu0/retail-sales-sql-analysis.git
-cd retail-sales-sql-analysis
+https://github.com/ujjwalbabu0/SQL_P1---Retail_sales_analysis/tree/main
