@@ -12,18 +12,21 @@ Welcome to the **Retail Sales Analysis** project — a beginner-friendly SQL por
 The project begins by creating a database named 'p1_retail_db' to store all retail sales-related data.
 
 - **Table Creation:**
-A table called 'retail_sales' is created within the database to capture detailed sales transactions. The table includes the following fields:
-transaction_id: Unique identifier for each transaction
-sale_date: Date of the sale
-sale_time: Time the transaction occurred
-customer_id: Unique identifier for each customer
-gender: Gender of the customer
-age: Age of the customer
-product_category: Category of the product sold
-quantity_sold: Number of units sold
-price_per_unit: Selling price per unit
-cogs: Cost of Goods Sold for the transaction
-total_sale: Total amount of the sale
+A table called `retail_sales` is created within the database to capture detailed sales transactions. The table includes the following fields:
+
+- `transaction_id`: Unique identifier for each transaction  
+- `sale_date`: Date of the sale  
+- `sale_time`: Time the transaction occurred  
+- `customer_id`: Unique identifier for each customer  
+- `gender`: Gender of the customer  
+- `age`: Age of the customer  
+- `product_category`: Category of the product sold  
+- `quantity_sold`: Number of units sold  
+- `price_per_unit`: Selling price per unit  
+- `cogs`: Cost of Goods Sold for the transaction  
+- `total_sale`: Total amount of the sale
+---
+
 
 ## Project Overview
 
