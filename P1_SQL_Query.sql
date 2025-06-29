@@ -48,8 +48,7 @@ WHERE
   quantity IS NULL OR
   price_per_unit IS NULL OR
   cogs IS NULL OR
-  total_sale IS NULL
-  limit 2000;
+  total_sale IS NULL;
 
 -- 3. Data Analysis & Findings
 
