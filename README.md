@@ -18,10 +18,10 @@ Welcome to the **Retail Sales Analysis** project — a beginner-friendly SQL por
 
 ##  Project Structure
 
-### 1. database_setup`
+### 1. database_setup
 Create the `retail_sales` table and database with the appropriate schema.
 
-### 2. cleaning_queries`
+### 2. cleaning_queries
 SQL scripts to:
 - Check for NULLs
 - Delete invalid rows
@@ -33,24 +33,24 @@ SQL to answer key business questions, such as:
 - Top customers
 - Sales trends by month and shift
 
-### 4. `reports/sales_summary.md`
+### 4. reports/sales_summary
 Contains findings and observations based on the SQL analysis.
 
 ---
 
 ## Key Business Questions
 
-**-- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05
--- Q.2 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of November 2022
--- Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.
--- Q.4 Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
--- Q.5 Write a SQL query to find all transactions where the total sale is greater than 1000.
--- Q.6 Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.
--- Q.7 Write a SQL query to calculate the average sale for each month. Find out the best-selling month in each year
--- Q.8 Write a SQL query to find the top 5 customers based on the highest total sales 
--- Q.9 Write a SQL query to find the number of unique customers who purchased items from each category.
--- Q.10 Write a SQL query to create each shift and number of orders (Example: Morning <=12, Afternoon Between 12 & 17, Evening >17)
-**---
+-- Q.1 Retrieve all columns for sales made on '2022-11-05'
+-- Q.2 Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of November 2022
+-- Q.3 Calculate the total sales (total_sale) for each category
+-- Q.4 Find the average age of customers who purchased items from the 'Beauty' category
+-- Q.5 Find all transactions where the total sale is greater than 1000
+-- Q.6 Find the total number of transactions (transaction_id) made by each gender in each category
+-- Q.7 Calculate the average sale for each month. Find out the best-selling month in each year
+-- Q.8 Find the top 5 customers based on the highest total sales
+-- Q.9 Find the number of unique customers who purchased items from each category
+-- Q.10 Create each shift and the corresponding number of orders (Example: Morning <=12, Afternoon Between 12 & 17, Evening >17)
+
 
 ### The Repository
 
