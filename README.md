@@ -18,16 +18,16 @@ Welcome to the **Retail Sales Analysis** project — a beginner-friendly SQL por
 
 ##  Project Structure
 
-### 1. `sql/database_setup.sql`
+### 1. database_setup`
 Create the `retail_sales` table and database with the appropriate schema.
 
-### 2. `sql/cleaning_queries.sql`
+### 2. cleaning_queries`
 SQL scripts to:
 - Check for NULLs
 - Delete invalid rows
 - Explore distinct values
 
-### 3. `sql/analysis_queries.sql`
+### 3. analysis_queries
 SQL to answer key business questions, such as:
 - Total sales by category
 - Top customers
@@ -38,14 +38,19 @@ Contains findings and observations based on the SQL analysis.
 
 ---
 
-## Key Business Questions Answered
+## Key Business Questions
 
-- What are the best-selling categories?
-- Who are the top 5 customers?
-- When do most transactions occur (morning/afternoon/evening)?
-- Which month had the highest average sales?
-
----
+**-- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05
+-- Q.2 Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 10 in the month of November 2022
+-- Q.3 Write a SQL query to calculate the total sales (total_sale) for each category.
+-- Q.4 Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
+-- Q.5 Write a SQL query to find all transactions where the total sale is greater than 1000.
+-- Q.6 Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.
+-- Q.7 Write a SQL query to calculate the average sale for each month. Find out the best-selling month in each year
+-- Q.8 Write a SQL query to find the top 5 customers based on the highest total sales 
+-- Q.9 Write a SQL query to find the number of unique customers who purchased items from each category.
+-- Q.10 Write a SQL query to create each shift and number of orders (Example: Morning <=12, Afternoon Between 12 & 17, Evening >17)
+**---
 
 ### The Repository
 
