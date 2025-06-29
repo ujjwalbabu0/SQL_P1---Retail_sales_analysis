@@ -1,23 +1,25 @@
 # SQL_P1---Retail_sales_analysis
 **Author - Ujjwal Babu**
+
 # 🛍️ Retail Sales Analysis SQL Project
 
 Welcome to the **Retail Sales Analysis** project — a beginner-friendly SQL portfolio project designed to demonstrate SQL skills required for data analysis roles. This project showcases how to clean, explore, and analyze retail sales data using SQL.
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 - **Level:** Beginner
-- **Database:** `p1_retail_db`
+- **Database:** `p1_retail`
 - **Skills Covered:** SQL, Data Cleaning, Aggregation, Window Functions, EDA
+
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ### 1. `sql/database_setup.sql`
-Create the `retail_sales` table and database with appropriate schema.
+Create the `retail_sales` table and database with the appropriate schema.
 
 ### 2. `sql/cleaning_queries.sql`
 SQL scripts to:
@@ -36,7 +38,7 @@ Contains findings and observations based on the SQL analysis.
 
 ---
 
-## 🔍 Key Business Questions Answered
+## Key Business Questions Answered
 
 - What are the best-selling categories?
 - Who are the top 5 customers?
@@ -44,8 +46,6 @@ Contains findings and observations based on the SQL analysis.
 - Which month had the highest average sales?
 
 ---
-
-## 🚀 Getting Started
 
 ### ✅ Clone the Repository
 
