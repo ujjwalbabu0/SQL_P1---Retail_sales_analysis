@@ -50,5 +50,5 @@ Contains findings and observations based on the SQL analysis.
 ### ✅ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/retail-sales-sql-analysis.git
+git clone https://github.com/ujjwalbabu0/retail-sales-sql-analysis.git
 cd retail-sales-sql-analysis
